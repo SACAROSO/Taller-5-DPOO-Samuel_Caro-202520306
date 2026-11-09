@@ -1,0 +1,9 @@
+Cliente: Ana
+Dirección: Calle 10
+----------------
+Hamburguesa sencilla
+            12000
+----------------
+Precio Neto:  12000
+IVA:          2280
+Precio Total: 14280
